@@ -1,9 +1,13 @@
 Section 1
-New file msg 2
+New branch
 
 Section 2
+New file msg 2
 
 Section 3
 
 Section 4
-conflicter b
+conflicter A
+
+Section 5
+conflicter B
