@@ -1,6 +1,8 @@
 Section 1
+New branch
 
 Section 2
+New file msg 2
 
 Section 3
 
