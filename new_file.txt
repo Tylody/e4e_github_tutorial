@@ -7,3 +7,4 @@ New file msg 2
 Section 3
 
 Section 4
+conflicter A
